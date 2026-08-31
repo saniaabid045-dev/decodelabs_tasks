@@ -1,4 +1,4 @@
-# Data-cleaning-project-decodelabs
+# Data Cleaning and Standardization Project-Decodelabs
 Data Cleaning Project for Decodelabs-Excel dataset cleaning (missing values, duplicates, formatting, categorical standardization).
 
 ## Project Overview 
