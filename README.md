@@ -1,4 +1,11 @@
-# Data Cleaning and Standardization Project-Decodelabs
+# Decodelabs Data Analyst Internship Projects
+
+## Projects
+- **Project 1: Data Cleaning** - Excel dataset cleaning(missing values, duplicates, formatting, categorical standardization)
+- **[Project 2: Exploratory Data Analysis](.Project2-EDA)**-Statistics, trends outliers, and key business insights
+
+ ---
+  # Project 1: Data Cleaning and Standardization Project-Decodelabs
 Data Cleaning Project for Decodelabs-Excel dataset cleaning (missing values, duplicates, formatting, categorical standardization).
 
 ## Project Overview 
