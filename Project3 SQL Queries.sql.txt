@@ -1,0 +1,18 @@
+-- Project 3: SQL Data Analysis - Decodelabs 
+-- 1.  SELECT Queries
+SELECT orderid, date, product, quantity, unitprice FROM SalesData LIMIT 10;
+SELECT * FROM SalesData LIMIT 10;
+
+-- 2.   WHERE, ORDER BY, GROUP BY
+SELECT orderid, product, orderstatus FROM SalesData WHERE orderstatus = 'Cancelled';
+SELECT orderid, product, unitprice FROM SalesData ORDER BY unitprice DESC LIMIT 10;
+SELECT product, COUNT(*) AS total_orders FROM SalesData GROUP BY product;
+
+-- 3.  Aggregations 
+SELECT COUNT(*) AS total_orders FROM SalesData;
+SELECT SUM(quantity) AS total_quantity_sold FROM SalesData;
+SELECT AVG(unitprice) AS average_price FROM SalesData;
+SELECT product, SUM(quantity) AS total_quantity, AVG(unitprice) AS avg_price
+FROM SalesData 
+GROUP BY product 
+ORDER BY total_quantity DESC;
