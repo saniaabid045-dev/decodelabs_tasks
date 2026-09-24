@@ -4,7 +4,7 @@
 - **[Project 1: Data Cleaning](.Project1-DataCleaning)** - Excel dataset cleaning(missing values, duplicates, formatting, categorical standardization)
 - **[Project 2: Exploratory Data Analysis](.Project2-EDA)**-Statistics, trends outliers, and key business insights
 - **[Project 3: SQL Data Analysis](./Project3-SQL)** - Wrote SQL queries to filter, sort, group, and aggregate data using WHERE, ORDER BY, and COUNT/SUM/AVG
-- **[Project 4: Data Visualization]** created data visualizations using bar, pie & line charts & highlighted key insights & trends 
+- **[Project 4: Data Visualization](./Project4-Data Visualization)** - created data visualizations using bar, pie & line charts & highlighted key insights & trends 
  ---
   # Project 1: Data Cleaning and Standardization Project-Decodelabs
 Data Cleaning Project for Decodelabs-Excel dataset cleaning (missing values, duplicates, formatting, categorical standardization).
